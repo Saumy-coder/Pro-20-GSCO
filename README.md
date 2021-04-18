@@ -1,1 +1,2 @@
-# Pro-20-GSCO
+# collisionAlgorithm
+Algorithm to detect collision between two objects
